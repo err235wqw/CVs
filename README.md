@@ -2,8 +2,7 @@
 
 Содержимое
 - `sidebarleft/main.tex` — основной файл резюме
-- `sidebarleft/untitled.jpg` — фото/аватар (используется в шапке левой колонки)
-- `sidebarleft/qrcode` — QR-код (вставляется в боковой колонке)
+- `sidebarleft/photo.png` — фото/аватар (используется в шапке левой колонки)
 
 Сборка
 1) Откройте `sidebarleft/main.tex` в LaTeX-редакторе
@@ -14,5 +13,3 @@
 - Навыки, контакты, образование, сертификаты: левая колонка `sidebarleft/main.tex`
 - Цвета: блок `Color Definitions` в `sidebarleft/main.tex`
 
-Примечания
-- Шаблон использует шрифты и иконки из TeX Live пакетов (FontAwesome).
