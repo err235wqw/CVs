@@ -7,7 +7,9 @@
 *.toc
 *.lof
 *.lot
-
+*.fdb_latexmk
+*.fls
+sidebarleft/main.pdf
 
 # bibliography related
 *-blx.bib
